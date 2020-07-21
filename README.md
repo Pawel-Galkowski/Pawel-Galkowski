@@ -4,14 +4,14 @@
 
 
 
+
 ### Hello visitor 👋 
-
-
 
 I focuse on expanding knowledge and abilities in software programming. 
 Right now I passion in a JavaScript soo I am trying to create projects in the latest technology. 
 In next step will create some projects in Virtual Reality or simple games.
 
+ 
  
 
 ## Key skills
@@ -21,6 +21,8 @@ In next step will create some projects in Virtual Reality or simple games.
 📖 `MongoDB, MySQL, SQL`.
 
 📖 `Node / Express, PHP`.
+
+
 
 
 ## I have been working on
@@ -37,3 +39,5 @@ In next step will create some projects in Virtual Reality or simple games.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" class="rounded-1 mr-3" width="64" height="64" alt="npm">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded-1 mr-3" width="64" height="64" alt="redux">
+
+
