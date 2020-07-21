@@ -17,7 +17,7 @@ In next step will  create some projects in Virtual Reality or simple games.
 
 ## Key skills
 
-💬 `Html, CSS, JavaScript, React, Redux, Wordpress`.
+💬 `Html, CSS, JavaScript, React, Redux`.
 
 📖 ` Node / Express`
 
