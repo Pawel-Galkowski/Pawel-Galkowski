@@ -8,7 +8,7 @@
 
 
 
-Focused on expanding knowledge and abilities in software programming and quality assurance.
+I focuse on expanding knowledge and abilities in software programming and quality assurance.
 Right now I passion in a JavaScript soo I am trying to create projects in the latest technology.
 In next step will  create some projects in Virtual Reality or simple games.
 
