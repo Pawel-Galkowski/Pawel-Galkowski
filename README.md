@@ -1,6 +1,5 @@
 
 ## 💻 JavaScript Developer
-[![HitCount](http://hits.dwyl.com/Pawel-Galkowski/Pawel-Galkowski.svg)](http://hits.dwyl.com/Pawel-Galkowski/Pawel-Galkowski)
 
 ` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
 
