@@ -1,4 +1,4 @@
-## 🔭 JavaScript Developer ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## 🔭 JavaScript Developer ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pawel-Galkowski)
 
 ` 😄 Pawel Galkowski` |  `🌱 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
 
