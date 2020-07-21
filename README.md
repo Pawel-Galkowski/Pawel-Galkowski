@@ -8,10 +8,9 @@
 
 
 
-I focuse on expanding knowledge and abilities in software programming and quality assurance.
-Right now I passion in a JavaScript soo I am trying to create projects in the latest technology.
-In next step will  create some projects in Virtual Reality or simple games.
-
+I focuse on expanding knowledge and abilities in software programming. 
+Right now I passion in a JavaScript soo I am trying to create projects in the latest technology. 
+In next step will create some projects in Virtual Reality or simple games.
 
  
 
@@ -19,7 +18,9 @@ In next step will  create some projects in Virtual Reality or simple games.
 
 💬 `Html, CSS, JavaScript, React, Redux`.
 
-📖 ` Node / Express`
+📖 `MongoDB, MySQL, SQL`.
+
+📖 `Node / Express, PHP`.
 
 
 ## I have been working on
@@ -29,7 +30,6 @@ In next step will  create some projects in Virtual Reality or simple games.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="64" height="64" alt="bootstrap logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="64" height="64" alt="react logo">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" class="rounded-1 mr-3" width="64" height="64" alt="eslint">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" class="rounded-1 mr-3" width="64" height="64" alt="mysql">
