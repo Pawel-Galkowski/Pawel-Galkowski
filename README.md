@@ -1,6 +1,6 @@
-## 🔭 JavaScript Developer ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pawel-Galkowski)
+## 💻 JavaScript Developer ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pawel-Galkowski)
 
-` 😄 Pawel Galkowski` |  `🌱 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
+` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
 
 <br/><br/>
 
@@ -12,12 +12,12 @@ In next step will create some projects in Virtual Reality or simple games.
 
 <br/><br/>
 
-## Key skills
-💬 `Html, CSS, JavaScript, JQuery, React, Redux`.
+## 📓 Key skills
+🔧 `Html, CSS, JavaScript, JQuery, React, Redux`.
 
 📖 `MongoDB, MySQL, SQL`.
 
-📖 `Node / Express, PHP`.
+💎 `Node / Express, PHP`.
 
 <br/><br/>
 
