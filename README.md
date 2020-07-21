@@ -1,3 +1,4 @@
+
 ## 💻 JavaScript Developer ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pawel-Galkowski)
 
 ` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
@@ -17,11 +18,11 @@ In next step will create some projects in Virtual Reality or simple games.
 
 📖 `MongoDB, MySQL, SQL`.
 
-💎 `Node / Express, PHP`.
+💪 `Node / Express, PHP`.
 
 <br/><br/>
 
-## I have been working on
+## 💎 I have been working on
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
