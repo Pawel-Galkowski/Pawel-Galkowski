@@ -14,11 +14,13 @@ In next step will create some projects in Virtual Reality or simple games.
 <br/><br/>
 
 ## 📓 Key skills
-🔧 `Html, CSS, JavaScript, JQuery, React, Redux`.
+🔧 `HTML, CSS, JavaScript, JQuery, React, Redux`.
 
 💪 `Node / Express, PHP`.
 
 📖 `MongoDB, MySQL, SQL`.
+
+🔨 `Webpack, GIT, GULP`.
 
 <br/><br/>
 
