@@ -23,6 +23,8 @@ In next step I will try to create some projects in Virtual Reality or simple gam
 
 📖 `MongoDB, MySQL, SQL`.
 
+☑️ `JEST`.
+
 🔨 `Webpack, GIT, GULP`.
 
 ➕ `Postman`.
