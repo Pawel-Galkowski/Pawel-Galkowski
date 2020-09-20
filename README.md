@@ -3,7 +3,7 @@
 
 ` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
 
-<br/><br/>
+<br/>
 
 ## Hello visitor 👋 
 
@@ -14,7 +14,7 @@ Right now I passion in a JavaScript soo I am trying to create projects in the la
 
 In next step I will try to create some projects in Virtual Reality or simple games.
 
-<br/><br/>
+<br/>
 
 ## 📓 Key skills
 🔧 `HTML, CSS, JavaScript, JQuery, React, Redux`.
@@ -29,7 +29,7 @@ In next step I will try to create some projects in Virtual Reality or simple gam
 
 ➕ `Postman`.
 
-<br/><br/>
+<br/>
 
 ## 💎 I have been working on
 
@@ -45,4 +45,4 @@ In next step I will try to create some projects in Virtual Reality or simple gam
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" class="rounded-1 mr-3" width="64" height="64" alt="npm">
  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" class="rounded-1 mr-3" width="64" height="64" alt="php">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" class="rounded-1 mr-3" width="64" height="64" alt="redux">
-<br/><br/><br/>
+<br/><br/>
