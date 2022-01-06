@@ -3,7 +3,7 @@
 
 ` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
 
-<br/>
+<br />
 
 ## Hello visitor 👋 
 
@@ -13,7 +13,7 @@ Secure is a one of the most important parts in my projects.
 
 ## 📓 I was working with:
 🔧 FrontEnd:
-`HTML, CSS, JavaScript, JQuery, React, Redux`.
+`HTML, CSS, JavaScript, JQuery, React, Redux`. <br />
 🔧 BackEnd:
 `Node / Express, PHP`.
 
