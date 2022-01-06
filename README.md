@@ -13,7 +13,7 @@ Secure is a one of the most important parts in my projects.
 
 ## 📓 I was working with:
 🔧 FrontEnd:
-`HTML, CSS, JavaScript, JQuery, React, Redux`. <br />
+`HTML, CSS, SCSS, JavaScript, JQuery, React, Redux, Vue`. <br />
 🔧 BackEnd:
 `Node / Express, PHP`.
 
