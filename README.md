@@ -8,8 +8,7 @@
 ## Hello visitor 👋 
 
 I focuse on expanding knowledge and abilities in software programming. <br />
-Actually I am working in JavaScript and I am trying to create projects in the latest technologies.<br />
-Secure is a one of the most important parts in my projects.
+Actually I am working in TypeScript and I am trying to create projects in the latest technologies.<br />
 
 ## 📓 I was working with:
 🔧 FrontEnd:
