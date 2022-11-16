@@ -12,12 +12,12 @@ Actually I am working in TypeScript and I am trying to create projects in the la
 
 ## 📓 I was working with:
 🔧 FrontEnd:
-`HTML, CSS, SCSS, JavaScript, JQuery, React, Redux, Vue`. <br />
+`HTML, CSS, SCSS, JS, TS, JQuery, React, Redux, Vue, Angular`. <br />
 🔧 BackEnd:
-`Node / Express, PHP`.
+`Node / Express, PHP, C#`.
 
 📖 Database
-`MongoDB, MySQL, SQL`.
+`MongoDB, MySQL, SQL, NoSQL`.
 
 ☑️ Tests
 `JEST, React Testing Library, Chai, Mocha`.
