@@ -12,7 +12,7 @@ My technology stack is based on problem and structure.
 
 ## 📓 I am working with:
 🔧 Main technologies:
-`TypeScript, JavaScript`
+`TypeScript, JavaScript`<br />
 🔧 FrontEnd:
 `HTML, CSS, SCSS, JS, TS, JQuery, React, Redux, Vue, Angular`. <br />
 🔧 BackEnd:
