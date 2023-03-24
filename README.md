@@ -7,10 +7,12 @@
 
 ## Hello visitor 👋 
 
-I focuse on expanding knowledge and abilities in software programming. <br />
-Actually I am working in TypeScript and I am trying to create projects in the latest technologies.<br />
+I am software Engineer with deep understanding of Web Development.
+My technology stack is based on problem and structure.
 
-## 📓 I was working with:
+## 📓 I am working with:
+🔧 Main technologies:
+`TypeScript, JavaScript`
 🔧 FrontEnd:
 `HTML, CSS, SCSS, JS, TS, JQuery, React, Redux, Vue, Angular`. <br />
 🔧 BackEnd:
