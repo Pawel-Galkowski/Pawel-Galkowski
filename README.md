@@ -1,9 +1,9 @@
 
 ## 💻 Software Engineer
 
-` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin.com/in/pawel-galkowski/'](https://www.linkedin.com/in/pawel-galkowski/)
+` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> `linkedin'](https://www.linkedin.com/in/pawel-galkowski/)
 
-My website: [itgalkowski.pl/](https://itgalkowski.pl/)
+My website: [itgalkowski.pl](https://itgalkowski.pl/)
 
 <br />
 
