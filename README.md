@@ -3,7 +3,9 @@
 
 ` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>linkedin](https://www.linkedin.com/in/pawel-galkowski/)
 
-My website: [itgalkowski.pl](https://itgalkowski.pl/)
+My websites:
+[itgalkowski.pl](https://itgalkowski.pl/)
+[devprofession.pl/](https://devprofession.pl/)
 
 <br />
 
@@ -21,10 +23,10 @@ My technology stack is based on problem and structure.
 `Node / Express, PHP, C#`.
 
 📖 Database
-`MongoDB, MySQL, SQL, NoSQL`.
+`MySQL, SQL, GraphQL, MongoDB`.
 
 ☑️ Tests
-`JEST, React Testing Library, Chai, Mocha`.
+`JEST, React Testing Library, Chai, Mocha, Vitest`.
 
 🔨 Tools
  `Webpack, GIT, GULP, Postman`.
