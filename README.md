@@ -11,22 +11,47 @@ My websites:
 
 ## Hello visitor 👋 
 
-I am software Engineer with deep understanding of Web Development.
-My technology stack is based on problem and structure.
+I am a Software Engineer with a strong foundation in Web Development. My technology stack is focused on problem-solving and structured approaches.
 
-## 📓 I am working with:
-🔧 Main technologies:
-`TypeScript, JavaScript`<br />
-🔧 FrontEnd:
-`HTML, CSS, SCSS, JS, TS, JQuery, React, Redux, Vue, Angular`. <br />
-🔧 BackEnd:
-`Node / Express, PHP, C#`.
+## 📓 I work with:
 
-📖 Database
-`MySQL, SQL, GraphQL, MongoDB`.
+### 🔧 Main Technologies:
+- **TypeScript**
+- **JavaScript**
 
-☑️ Tests
-`JEST, React Testing Library, Chai, Mocha, Vitest`.
+### 🔧 Frontend:
+- **HTML**
+- **CSS**
+- **SCSS**
+- **jQuery**
+- **React**
+- **Redux**
+- **Vue**
+- **Angular**
+- **Nuxt**
+- **Next.js**
 
-🔨 Tools
- `Webpack, GIT, GULP, Postman`.
+### 🔧 Backend:
+- **Node.js**
+- **Nest.jS**
+- **Express.js**
+
+### 📖 Databases:
+- **MySQL**
+- **SQL**
+- **GraphQL**
+- **MongoDB**
+
+### ☑️ Testing:
+- **JEST**
+- **React Testing Library**
+- **Chai**
+- **Mocha**
+- **Vitest**
+- **Cypress**
+
+### 🔨 Tools:
+- **Webpack**
+- **GIT**
+- **GULP**
+- **Postman**
