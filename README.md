@@ -1,57 +1,87 @@
+# Hi, I'm Paweł 👋
 
-## 💻 Software Engineer
+**Senior Software Engineer • Frontend-focused • TypeScript & JavaScript enthusiast**
 
-` 😄 Pawel Galkowski` |  `🏠 from Poland` | [<img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>linkedin](https://www.linkedin.com/in/pawel-galkowski/)
+I specialize in building **modern, scalable web applications** with a strong focus on **frontend engineering**, clean architecture, and great developer experience. I enjoy working across the stack when needed, but my main strength is crafting **well-structured, maintainable, and user-friendly interfaces**.
 
-My websites:
-[itgalkowski.pl](https://itgalkowski.pl/)
-[devprofession.pl/](https://devprofession.pl/)
+---
 
-<br />
+## 🛠 Tech stack
 
-## Hello visitor 👋 
+### Core
 
-I am a Software Engineer with a strong foundation in Web Development. My technology stack is focused on problem-solving and structured approaches.
+- JavaScript (ESNext)  
+- TypeScript  
+- HTML5, CSS3, Responsive Design
 
-## 📓 I work with:
+### Frontend
 
-### 🔧 Main Technologies:
-- **TypeScript**
-- **JavaScript**
+- React
+- Redux  
+- Next.js  
+- React Native
+- Vue
+- Styled-components  
+- SCSS  
+- TailwindCSS  
+- Webpack  
+- Vite  
+- Browser APIs  
 
-### 🔧 Frontend:
-- **HTML**
-- **CSS**
-- **SCSS**
-- **jQuery**
-- **React**
-- **Redux**
-- **Vue**
-- **Angular**
-- **Nuxt**
-- **Next.js**
+### Backend
 
-### 🔧 Backend:
-- **Node.js**
-- **Nest.jS**
-- **Express.js**
+- Node.js  
+- Express  
+- NestJS  
 
-### 📖 Databases:
-- **MySQL**
-- **SQL**
-- **GraphQL**
-- **MongoDB**
+### Data & APIs
 
-### ☑️ Testing:
-- **JEST**
-- **React Testing Library**
-- **Chai**
-- **Mocha**
-- **Vitest**
-- **Cypress**
+- REST APIs  
+- GraphQL  
+- MongoDB  
+- MySQL  
 
-### 🔨 Tools:
-- **Webpack**
-- **GIT**
-- **GULP**
-- **Postman**
+### Testing & Quality
+
+- Jest
+- Vuex
+- Mocha  
+- Cypress  
+
+### Tooling & Collaboration
+
+- Git  
+- CI/CD  
+- Storybook  
+- Design collaboration with tools like Figma  
+
+---
+
+## 🔧 What I like to work on
+
+- **Frontend architecture:** component-driven design, state management, and scalable structures  
+- **Performance:** optimising bundles, loading strategies, and runtime behavior  
+- **DX (Developer Experience):** improving tooling, tests, and workflows to ship faster with confidence  
+- **Product-focused features:** turning requirements into intuitive, robust UI flows  
+
+---
+
+## 📂 What you’ll find here
+
+- Experiments with **frontend architectures** and patterns  
+- Small tools and utilities in **TypeScript / Node.js**  
+- Prototypes exploring **React**, **Next.js**, and modern build tools  
+- Occasional playgrounds for **testing libraries** and **DX improvements**
+
+---
+
+## 🌱 Currently interested in
+
+- AI-assisted experiences in web apps  
+- Advanced React patterns and performance tuning  
+- Better testing strategies for complex UIs  
+- Developer tooling and internal platforms
+
+---
+
+If you’re into **frontend engineering, modern JavaScript, or full-stack TypeScript**, feel free to explore my repositories or get inspired by the approaches and patterns I use.
